@@ -10,3 +10,6 @@ Lado derecho: Una imagen del producto. Es muy importante que la imagen se vea co
 El diseño debe ser limpio, con bordes redondeados y un sutil borde neón en cada Card para que combine con el AppBar que ya tengo. Las imágenes que vamos a usar son estos enlaces de GitHub: (aquí pegarías los 5 links de los peluches).
 
 Por favor, no incluyas Drawer, solo el Scaffold con el AppBar y el cuerpo con las tarjetas en un ListView.
+<img width="264" height="433" alt="image" src="https://github.com/user-attachments/assets/8e30196b-3db9-4529-bca9-b21398a23dc3" />
+<img width="1050" height="745" alt="image" src="https://github.com/user-attachments/assets/cbb1133e-81e2-4a9e-9314-6838ab6a4677" />
+<img width="1050" height="724" alt="image" src="https://github.com/user-attachments/assets/fb1b0752-fbc3-45b6-8921-808261a510e9" />
